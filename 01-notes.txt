@@ -1,5 +1,0 @@
-Recap needed:
-    1. CSS Animations
-    2. gsap
-    3. javascript basics
-    4. pseudo elements in css
