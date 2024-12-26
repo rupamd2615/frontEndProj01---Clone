@@ -1,9 +1,5 @@
 # Sidcup Family Golf Website
 
-<p align="center">
-  <img src="images/logo-white.svg" alt="Project Image" width="400">
-</p>
-
 
 
 ## 🌟 Description
