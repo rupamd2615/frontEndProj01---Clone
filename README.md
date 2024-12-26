@@ -8,7 +8,7 @@ Welcome to the Sidcup Family Golf - clone website repository! This project repre
 
 ## 🔗 Link to site
 
-https://web-application-by-ajharshvardhan.onrender.com
+coming soon
 
 ## 🚀 Key Features
 
